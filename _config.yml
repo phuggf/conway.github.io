@@ -11,7 +11,7 @@ title                    : "Kaptured Carbon"
 title_separator          : "-"
 name                     : &name "Kaptured Carbon"
 description              : &description "personal description"
-url                      : https://phuggf.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://phuggf.github.io/conway.github.io/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "phuggf/conway.github.io"
 
